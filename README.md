@@ -1,7 +1,8 @@
-# flink-
+# flink
 Flink1.10.0的入门自测
 
 https://www.cnblogs.com/yaowentao/p/12317356.html
+https://baijiahao.baidu.com/s?id=1681120386849139380&wfr=spider&for=pc
 
 目的：已在CDH集群上已配置好Flink1.10.0， 
     1.学习如何提交flink任务，参数设置
